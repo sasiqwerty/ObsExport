@@ -1,5 +1,5 @@
 # Set the folder names you want to search for and delete (separated by commas)
-$targetFolderNames = "applications,dailynote,openai,podcasts,powershell,youtube,obsidian"
+$targetFolderNames = "applications,dailynote,openai,podcasts,powershell,youtube,obsidian,interviews"
 
 # Convert the target folder names to an array
 $targetFolders = $targetFolderNames -split ','
